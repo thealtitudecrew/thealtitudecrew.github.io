@@ -28,12 +28,7 @@ key: page-classes
 ---
 ## Book a Class
 
-Welcome to our class booking page! Use the form below to reserve your spot.
-
-## Booking Form
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccATyV_yXkJzlrPKkMU-0_NEx4uiZ7VeJ_Mzobd3x52p73rA/viewform?embedded=true" 
-width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Welcome to our class booking page! Below, you can find information about our available classes. Use the form at the bottom to reserve your spot.
 
 ---
 
@@ -50,3 +45,10 @@ width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loadin
 - **Date**: September 15, 2025
 - **Time**: 6:00 PM - 7:30 PM
 - **Location**: Studio B
+
+---
+
+## Booking Form
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccATyV_yXkJzlrPKkMU-0_NEx4uiZ7VeJ_Mzobd3x52p73rA/viewform?embedded=true" 
+width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
