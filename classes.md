@@ -24,6 +24,8 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-classes
+---
+# Classes
 
 ---
 ## Book a Class
