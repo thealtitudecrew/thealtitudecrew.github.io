@@ -74,6 +74,5 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       tr      : &TR       Dersler
-      key: page-classes
       # @end locale config
     url: /classes.html
