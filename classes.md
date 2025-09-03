@@ -24,11 +24,12 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-classes
+
 ---
-# Book a Class
+## Book a Class
 
 Welcome to our class booking page! Use the form below to reserve your spot.
----
+
 ## Booking Form
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccATyV_yXkJzlrPKkMU-0_NEx4uiZ7VeJ_Mzobd3x52p73rA/viewform?embedded=true" 
