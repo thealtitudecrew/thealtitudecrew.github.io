@@ -25,21 +25,14 @@ titles:
   # @end locale config
 key: page-classes
 ---
----
-layout: article
-titles:
-  en: Classes
-key: page-classes
----
-
 # Book a Class
 
 Welcome to our class booking page! Use the form below to reserve your spot.
-
+---
 ## Booking Form
 
-<iframe src="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccATyV_yXkJzlrPKkMU-0_NEx4uiZ7VeJ_Mzobd3x52p73rA/viewform?embedded=true" width="640"
-height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccATyV_yXkJzlrPKkMU-0_NEx4uiZ7VeJ_Mzobd3x52p73rA/viewform?embedded=true" 
+width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ---
 
