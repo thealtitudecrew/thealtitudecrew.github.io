@@ -8,6 +8,7 @@ en      : &EN       Classes
 key: page-about
 ---
 
+# Classes
 
 
 Welcome to our class booking page! Below, you can find information about our available classes. Use the form at the bottom to reserve your spot.
