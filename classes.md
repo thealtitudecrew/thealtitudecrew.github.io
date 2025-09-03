@@ -1,12 +1,7 @@
 ---
-layout: article
+layout: home
 title: "Classes"
-  # @start locale config
-en      : &EN       Classes
-  en-GB   : *EN
-  # @end locale config
 key: page-about
-show_title: false
 ---
 
 Welcome to our class booking page! Below, you can find information about our available classes. Use the form at the bottom to reserve your spot.
