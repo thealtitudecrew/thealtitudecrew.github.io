@@ -15,8 +15,6 @@ Welcome to our class booking page! Below, you can find information about our ava
 
 ---
 
-## Available Classes
-
 ### K-Pop Dance Basics
 - **Instructor**: XXX
 - **Date**: September 10, 2025
