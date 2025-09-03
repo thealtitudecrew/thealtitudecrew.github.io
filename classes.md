@@ -6,6 +6,7 @@ en      : &EN       Classes
   en-GB   : *EN
   # @end locale config
 key: page-about
+show_title: false
 ---
 
 # Classes
