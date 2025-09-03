@@ -1,1 +1,1 @@
-# The Altituded Website
+# The Altitude Website
