@@ -3,8 +3,6 @@ layout: home
 title: "Altitude Dance Crew"
 ---
 
-<center>
-
 # Welcome to ALTITUDE!
 
 We perform K-Pop dance covers and host exciting events.
@@ -42,4 +40,3 @@ Cover by: Jasmine (Karina), Harry (Giselle), Jessica (Winter), Yifei (Ningning)
 - Random Play Dance (RPD 3.0) – Sept 21, 1PM - UTSG
 - Showcase 2.0 - tba.
 
-</center>
