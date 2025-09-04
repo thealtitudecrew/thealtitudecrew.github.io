@@ -38,5 +38,6 @@ Cover by: Jasmine (Karina), Harry (Giselle), Jessica (Winter), Yifei (Ningning)
 ## Upcoming Events
 
 - Random Play Dance (RPD 3.0) – Sept 21, 1PM - UTSG
-- Showcase 2.0 - tba.
+- Showcase 2.0 - October - tba.
+- Random Play Dance (RPD 4.0) - November - tba. 
 
